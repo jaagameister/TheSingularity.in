@@ -1,9 +1,9 @@
-baseurl = "https://thesingularity.in"
+baseurl = "//thesingularity.in/"
 title = "TheSingularity"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+# disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -36,7 +36,7 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "<p>The Singularity</p>"
-    copyright = "Copyright (c) 209 - 2017, The Singularity; all rights reserved."
+    copyright = "Copyright (c) 2017, The Singularity; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
