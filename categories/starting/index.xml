@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Starting on TheSingularity</title>
-    <link>https://thesingularity.in/categories/starting/index.xml</link>
+    <link>//thesingularity.in/categories/starting/index.xml</link>
     <description>Recent content in Starting on TheSingularity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 209 - 2017, The Singularity; all rights reserved.</copyright>
-    <atom:link href="https://thesingularity.in/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (c) 2017, The Singularity; all rights reserved.</copyright>
+    <atom:link href="//thesingularity.in/categories/starting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Creating a new theme</title>
-      <link>https://thesingularity.in/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>//thesingularity.in/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://thesingularity.in/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>//thesingularity.in/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
